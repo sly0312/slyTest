@@ -1,0 +1,17 @@
+/* pages/redDots/redDots.wxss */
+.good_box {
+  width: 30rpx;
+  height: 30rpx;
+  position: fixed;
+  border-radius: 50%;
+  overflow: hidden;
+  /* left: 600rpx;
+  top: 300rpx; */
+  z-index: 99; 
+  background: #b02c41;
+} 
+.iconPlus{
+  width:50rpx;
+  height:50rpx;
+  border-radius: 100%;
+}

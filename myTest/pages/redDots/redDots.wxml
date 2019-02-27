@@ -1,0 +1,9 @@
+  <!-- 点击加  点击事件 -->
+<image class="iconPlus" catchtap='middlejia' data-indexOut="{{indexOut}}" data-indexIn="{{indexIn}}" style='background:#cb003c;' src='../../image/imgs/plus.png'></image>  
+ 
+  <!-- 飞入图标 -->
+ <!-- <view > 
+  <view>加入购物车</view> -->
+  <!-- <view class="good_box" hidden="{{hide_good_box}}"  style="left:{{bus_x}}px;top：{{bus_y}}px;"></view> -->
+  <view class="good_box"   style="left:{{bus_x}}rpx;top：{{bus_y}}rpx;"></view>
+  <!-- </view>  -->
